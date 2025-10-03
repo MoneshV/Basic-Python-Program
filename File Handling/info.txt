@@ -1,0 +1,3 @@
+Hello World
+Hello DemiHello DemiAdding a word to the file.
+slash n moves to next line.
