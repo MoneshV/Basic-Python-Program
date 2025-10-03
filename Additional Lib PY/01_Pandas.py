@@ -7,6 +7,8 @@ which are optimized for handling tabular data, and tools for reading and writing
 
 import pandas as pd
 
+print(dir(pd))
+
 data = {
     'cars' : ['bmw','audi','mercedes'],
     'price' : [200,300,400]
