@@ -22,5 +22,5 @@ print(z['c'])
 
 calories = {'day1': 420, 'day2': 380, 'day3': 390}
 x = pd.Series(calories)
-x = pd.Series(calories, index=['day1'])
+x = pd.Series(calories, index=['day1']) # if you give exceed index it will shown an error. 
 print(x)
